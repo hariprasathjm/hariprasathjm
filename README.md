@@ -5,7 +5,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I have successfully graduated with a Bachelor's Degree in Computer Science and Engineering from the esteemed Dr. NGP Institute of Technology, Coimbatore..\
 🌱 &nbsp;I'm on track for learning more about Full stack Web development and Java Swing Framework.\
-✍️ &nbsp;In my free time, I pursue Problem Solving and hit the gym /side hustles.\
+✍️ &nbsp;In my free time, I pursue Problem Solving and hit the gym/side hustles.\
 
 
 
@@ -13,17 +13,17 @@
 <h3> 🛠 &nbsp;Languages and Tools</h3>
 
 - 💻 &nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=FFA518)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C)
 ![MySQl](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
 ### Spotify Playing 🎧
