@@ -12,7 +12,7 @@
 
 <h3> 🛠 &nbsp;Languages and Tools</h3>
 
-- 💻 &nbsp;
+💻 &nbsp;  
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=FFA518)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
@@ -22,8 +22,6 @@
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
 ### Spotify Playing 🎧
