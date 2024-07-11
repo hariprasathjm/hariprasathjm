@@ -5,8 +5,8 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I have successfully graduated with a Bachelor's Degree in Computer Science and Engineering from the esteemed Dr. NGP Institute of Technology, Coimbatore..\
 🌱 &nbsp;I'm on track for learning more about Full stack Web development and Java Swing Framework.\
-✍️ &nbsp;In my free time, I pursue Problem Solving and hit the gym/side hustles.\
-
+✍️ &nbsp;In my free time, I pursue Problem Solving \
+💪🏽 &nbsp;I also hit the gym.\
 
 
 
