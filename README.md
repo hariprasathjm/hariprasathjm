@@ -5,10 +5,9 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I have successfully graduated with a Bachelor's Degree in Computer Science and Engineering from the esteemed Dr. NGP Institute of Technology, Coimbatore..\
 🌱 &nbsp;I'm on track for learning more about Full stack Web development and Java Swing Framework.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+✍️ &nbsp;In my free time, I pursue Problem Solving and hit the gym /side hustles.\
+
+
 
 
 <h3> 🛠 &nbsp;Languages and Tools</h3>
@@ -37,7 +36,7 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/h
- ari-prasath-79895025a"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/_hari_prasath42/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/hariprasath4068"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+ ari-prasath-79895025a"><img src="https://img.shields.io/badge/-Hari%20Prasath%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/_hari_prasath42/"><img src="https://img.shields.io/badge/-HariPrasath-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/hariprasath4068"><img src="https://img.shields.io/badge/-HariPrasath-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
