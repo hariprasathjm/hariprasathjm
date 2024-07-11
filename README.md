@@ -14,7 +14,7 @@
 
 💻 &nbsp;  
 
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=FFA518)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6)
