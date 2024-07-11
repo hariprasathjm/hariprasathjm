@@ -6,13 +6,14 @@
 🎓 &nbsp;I have successfully graduated with a Bachelor's Degree in Computer Science and Engineering from the esteemed Dr. NGP Institute of Technology, Coimbatore..\
 🌱 &nbsp;I'm on track for learning more about Full stack Web development and Java Swing Framework.\
 ✍️ &nbsp;In my free time, I pursue Problem Solving \
-💪🏽 &nbsp;I also hit the gym.\
+💪🏽 &nbsp;I also hit the gym.
 
 
 
 <h3> 🛠 &nbsp;Languages and Tools</h3>
 
 💻 &nbsp;  
+
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=FFA518)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
